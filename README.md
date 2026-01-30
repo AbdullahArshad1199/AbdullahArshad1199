@@ -1,116 +1,110 @@
 ![logo](https://github.com/AbdullahArshad1199/AbdullahArshad1199/blob/main/software%20developer.png)
 
-<h1 align="center">Hi 👋, I'm Abdullah Arshad</h1>
+<h1 align="center">Abdullah Arshad</h1>
 <h3 align="center">
-Advanced Web Developer 🚀 | Building Scalable Apps with Modern Stacks | AI-Powered Solutions
+Advanced Web Developer | Backend Engineer | AI-Driven Application Builder
 </h3>
 
-<img align="right" alt="coding" width="400"
+<p align="center">
+Building scalable web applications with modern frameworks, robust APIs, and intelligent AI agents.
+</p>
+
+<img align="right" alt="coding" width="380"
 src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=abdullaharshad1199&label=Profile%20views&color=0e75b6&style=flat"
+<img src="https://komarev.com/ghpvc/?username=abdullaharshad1199&label=Profile%20Views&color=0e75b6&style=flat"
 alt="abdullaharshad1199" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Advanced Web Development using modern stacks**
-- 🌱 Exploring **AI-assisted development & Machine Learning**
-- ⚡ Passionate about **clean architecture, APIs, and scalable systems**
+## 👨‍💻 Professional Summary
+I am an **Advanced Web Developer** specializing in **backend systems, modern frontend frameworks, and AI-assisted applications**.  
+I focus on writing **clean, scalable, and production-ready code**, with strong experience in API development, database design, and intelligent automation using agentic AI systems.
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 🌐 Frontend
-- **Next.js (with AI Assistance)**
-- HTML5, CSS3, JavaScript
-- Bootstrap
-
-#### ⚙️ Backend
-- **FastAPI**
-- **Flask**
-- **Django**
-
-#### 🗄️ Databases
-- **PostgreSQL**
-- **SQL**
-- **SQLite**
-
-#### 🤖 AI & ML
-- **OpenAI Agent SDK**
-- Machine Learning (Foundational Knowledge)
+## 🚀 Core Expertise
+- RESTful & async API development  
+- Scalable backend architectures  
+- Modern frontend with Next.js  
+- Relational database design & optimization  
+- AI-powered workflows using Agentic AI SDKs  
 
 ---
 
-### 📫 How to Reach Me
+## 🛠️ Languages & Tools
+
+### Backend Frameworks
+<p align="left">
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45"/>
+</a>
+</p>
+
+### Frontend
+<p align="left">
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+</a>
+</p>
+
+### Databases
+<p align="left">
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45"/>
+</a>
+</p>
+
+### Programming & AI
+<p align="left">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://platform.openai.com/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="45" height="45"/>
+</a>
+</p>
+
+- **Python**
+- **SQL / SQLite**
+- **Agentic AI (OpenAI Agent SDK)**
+
+---
+
+## 🤖 AI Experience
+- Designing **agent-based AI workflows**
+- Integrating **OpenAI Agent SDK** into web applications
+- AI-assisted automation & intelligent backend logic
+- Foundational knowledge of **Machine Learning**
+
+---
+
+## 📫 Contact
 - 📧 **superioruserpics@gmail.com**
 - 💼 LinkedIn:  
   https://www.linkedin.com/in/superior-account-a29553338/
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/superior-account-a29553338/" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-height="30" width="40" />
-</a>
-
-<a href="https://www.kaggle.com/abdmughal" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/u/abdullah_arshad_1199/" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🔧 Languages & Tools
-<p align="left">
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
-</p>
-
----
-
+## 📊 GitHub Analytics
 <p>
 <img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaharshad1199&show_icons=true&layout=compact" />
+src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaharshad1199&layout=compact" />
 </p>
 
 <p>
