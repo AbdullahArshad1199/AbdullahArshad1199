@@ -35,50 +35,45 @@ I focus on writing **clean, scalable, and production-ready code**, with strong e
 ---
 
 ## 🛠️ Languages & Tools
-
-### Backend Frameworks
 <p align="left">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
 <a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
 </a>
-</p>
 
-### Frontend
-<p align="left">
 <a href="https://nextjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 </a>
-</p>
 
-### Databases
-<p align="left">
 <a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://www.sqlite.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
 </a>
-</p>
 
-### Programming & AI
-<p align="left">
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+<a href="https://www.w3schools.com/sql/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40" height="40"/>
 </a>
 
 <a href="https://platform.openai.com/" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="40" height="40"/>
 </a>
 </p>
+
+
 
 - **Python**
 - **SQL / SQLite**
