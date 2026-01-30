@@ -34,6 +34,14 @@ I focus on writing **clean, scalable, and production-ready code**, with strong e
 
 ---
 
+## 🤖 AI Experience
+- Designing **agent-based AI workflows**
+- Integrating **OpenAI Agent SDK** into web applications
+- AI-assisted automation & intelligent backend logic
+- Foundational knowledge of **Machine Learning**
+
+---
+
 ## 🛠️ Languages & Tools
 <p align="left">
 <a href="https://www.python.org/" target="_blank">
@@ -81,33 +89,9 @@ I focus on writing **clean, scalable, and production-ready code**, with strong e
 
 ---
 
-## 🤖 AI Experience
-- Designing **agent-based AI workflows**
-- Integrating **OpenAI Agent SDK** into web applications
-- AI-assisted automation & intelligent backend logic
-- Foundational knowledge of **Machine Learning**
-
----
-
 ## 📫 Contact
 - 📧 **superioruserpics@gmail.com**
 - 💼 LinkedIn:  
   https://www.linkedin.com/in/superior-account-a29553338/
 
 ---
-
-## 📊 GitHub Analytics
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaharshad1199&layout=compact" />
-</p>
-
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=abdullaharshad1199&show_icons=true" />
-</p>
-
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=abdullaharshad1199" />
-</p>
