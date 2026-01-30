@@ -1,5 +1,3 @@
-![logo](https://github.com/AbdullahArshad1199/AbdullahArshad1199/blob/main/software%20developer.png)
-
 <h1 align="center">Abdullah Arshad</h1>
 <h3 align="center">
 Advanced Web Developer | Backend Engineer | AI-Driven Application Builder
@@ -9,13 +7,7 @@ Advanced Web Developer | Backend Engineer | AI-Driven Application Builder
 Building scalable web applications with modern frameworks, robust APIs, and intelligent AI agents.
 </p>
 
-<img align="right" alt="coding" width="380"
-src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=abdullaharshad1199&label=Profile%20Views&color=0e75b6&style=flat"
-alt="abdullaharshad1199" />
-</p>
 
 ---
 
